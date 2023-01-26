@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    background-color: #61bdf8;
+    padding: 20px;
+    
+}
+
+header{
+    padding:40px ;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+ 
