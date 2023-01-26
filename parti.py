@@ -1,6 +1,6 @@
 class Parti:
     def __init__(self, samlet_verdi, samlet_poeng, stemmer):
-        self._parti = []
+        self._parti = [] #liste med politkerne som er valg ttil partiet
         self._samlet_verdi = samlet_verdi
         self._samlet_poeng = samlet_poeng
         self._stemmer = stemmer
@@ -10,6 +10,10 @@ class Parti:
         for politiker in self._parti:
             if politiker.hent_etternavn() == etternavn:
                 return self._parti.index(politiker)
+
+    def oppdater_samlet_poeng(self):
+        for politiker in self._parti:
+            self._samlet_poeng += politiker.hent_poneg()
 
     def hent_samlet_poeng(self):
         return self._samlet_poeng
@@ -36,3 +40,6 @@ class Parti:
     def fjern_politiker(self, etternavn):
         n = self.hent_politiker(etternavn)
         self._parti[n].bytt_status()
+        self.oppdater_samlet_poeng()
+        self.oppdater_samlet_verdi()
+        self.oppdater_stemmer()
