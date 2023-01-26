@@ -1,6 +1,6 @@
 class Parti:
     def __init__(self, samlet_verdi, samlet_poeng, stemmer):
-        self._parti = [] #liste med politkerne som er valg ttil partiet
+        self._parti = [] #liste med politkerne som er valgt til partiet
         self._samlet_verdi = samlet_verdi
         self._samlet_poeng = samlet_poeng
         self._stemmer = stemmer
