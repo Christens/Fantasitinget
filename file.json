@@ -1,0 +1,428 @@
+{
+    "regjeringsmedlemmer_oversikt": {
+        "respons_dato_tid": "2023-01-26T09:14:15.945537+01:00",
+        "versjon": 1.6,
+        "regjeringsmedlemmer_liste": {
+            "regjeringsmedlem": [
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Støre",
+                    "foedselsdato": "1960-08-25T00:00:00",
+                    "fornavn": "Jonas Gahr",
+                    "id": "JGS",
+                    "kjoenn": "mann",
+                    "departement": "Statsministerens kontor",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 1,
+                    "tittel": "Statsminister",
+                    "verv": "Statsminister",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Vedum",
+                    "foedselsdato": "1978-12-01T00:00:00",
+                    "fornavn": "Trygve Slagsvold",
+                    "id": "TMV",
+                    "kjoenn": "mann",
+                    "departement": "Finansdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 2,
+                    "tittel": "Finansminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Huitfeldt",
+                    "foedselsdato": "1969-11-29T00:00:00",
+                    "fornavn": "Anniken",
+                    "id": "ANNH",
+                    "kjoenn": "kvinne",
+                    "departement": "Utenriksdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 3,
+                    "tittel": "Utenriksminister",
+                    "verv": "Utenriksminister",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Moe",
+                    "foedselsdato": "1976-06-06T00:00:00",
+                    "fornavn": "Ola Borten",
+                    "id": "OBM",
+                    "kjoenn": "mann",
+                    "departement": "Kunnskapsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 4,
+                    "tittel": "Forsknings- og høyere utdanningsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Skjæran",
+                    "foedselsdato": "1966-05-28T00:00:00",
+                    "fornavn": "Bjørnar",
+                    "id": "BJRSKJ",
+                    "kjoenn": "mann",
+                    "departement": "Nærings- og fiskeridepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 5,
+                    "tittel": "Fiskeri- og havminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Tvinnereim",
+                    "foedselsdato": "1974-05-22T00:00:00",
+                    "fornavn": "Anne Beathe Kristiansen",
+                    "id": "ANNTVI",
+                    "kjoenn": "kvinne",
+                    "departement": "Utenriksdepartementet, utviklingssaker",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 6,
+                    "tittel": "Utviklingsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Eide",
+                    "foedselsdato": "1964-05-01T00:00:00",
+                    "fornavn": "Espen Barth",
+                    "id": "EBE",
+                    "kjoenn": "mann",
+                    "departement": "Klima- og miljødepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 7,
+                    "tittel": "Klima- og miljøminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Toppe",
+                    "foedselsdato": "1967-10-20T00:00:00",
+                    "fornavn": "Kjersti",
+                    "id": "KJT",
+                    "kjoenn": "kvinne",
+                    "departement": "Barne- og familiedepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 8,
+                    "tittel": "Barne- og familieminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Gram",
+                    "foedselsdato": "1972-05-07T00:00:00",
+                    "fornavn": "Bjørn Arild",
+                    "id": "BJAG",
+                    "kjoenn": "mann",
+                    "departement": "Forsvarsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 9,
+                    "tittel": "Forsvarsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Nygård",
+                    "foedselsdato": "1973-01-02T00:00:00",
+                    "fornavn": "Jon-Ivar",
+                    "id": "JONN",
+                    "kjoenn": "mann",
+                    "departement": "Samferdselsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 10,
+                    "tittel": "Samferdselsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Persen",
+                    "foedselsdato": "1975-04-24T00:00:00",
+                    "fornavn": "Marte Mjøs",
+                    "id": "MARPER",
+                    "kjoenn": "kvinne",
+                    "departement": "Arbeids- og inkluderingsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 11,
+                    "tittel": "Arbeids- og inkluderingsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Kjerkol",
+                    "foedselsdato": "1975-05-18T00:00:00",
+                    "fornavn": "Ingvild",
+                    "id": "INK",
+                    "kjoenn": "kvinne",
+                    "departement": "Helse- og omsorgsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 12,
+                    "tittel": "Helse- og omsorgsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Trettebergstuen",
+                    "foedselsdato": "1981-05-25T00:00:00",
+                    "fornavn": "Anette",
+                    "id": "ATR",
+                    "kjoenn": "kvinne",
+                    "departement": "Kultur- og likestillingsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 13,
+                    "tittel": "Kultur- og likestillingsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Vestre",
+                    "foedselsdato": "1986-10-09T00:00:00",
+                    "fornavn": "Jan Christian",
+                    "id": "JANVES",
+                    "kjoenn": "mann",
+                    "departement": "Nærings- og fiskeridepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 14,
+                    "tittel": "Næringsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Brenna",
+                    "foedselsdato": "1987-10-21T00:00:00",
+                    "fornavn": "Tonje",
+                    "id": "TONB",
+                    "kjoenn": "kvinne",
+                    "departement": "Kunnskapsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 15,
+                    "tittel": "Kunnskapsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Borch",
+                    "foedselsdato": "1988-04-23T00:00:00",
+                    "fornavn": "Sandra",
+                    "id": "SNB",
+                    "kjoenn": "kvinne",
+                    "departement": "Landbruks- og matdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 16,
+                    "tittel": "Landbruks- og matminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Mehl",
+                    "foedselsdato": "1993-08-08T00:00:00",
+                    "fornavn": "Emilie",
+                    "id": "EEM",
+                    "kjoenn": "kvinne",
+                    "departement": "Justis- og beredskapsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 17,
+                    "tittel": "Justis- og beredskapsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Aasland",
+                    "foedselsdato": "1965-02-15T00:00:00",
+                    "fornavn": "Terje",
+                    "id": "TELA",
+                    "kjoenn": "mann",
+                    "departement": "Olje- og energidepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "A",
+                        "navn": "Arbeiderpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 18,
+                    "tittel": "Olje- og energiminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                },
+                {
+                    "respons_dato_tid": "2023-01-26T09:14:15.9767711+01:00",
+                    "versjon": 1.6,
+                    "doedsdato": "",
+                    "etternavn": "Gjelsvik",
+                    "foedselsdato": "1974-03-30T00:00:00",
+                    "fornavn": "Sigbjørn",
+                    "id": "SIGJE",
+                    "kjoenn": "mann",
+                    "departement": "Kommunal- og distriktsdepartementet",
+                    "parti": {
+                        "respons_dato_tid": "2023-01-26T01:00:10.2463467+01:00",
+                        "versjon": 1.6,
+                        "id": "Sp",
+                        "navn": "Senterpartiet",
+                        "representert_parti": true
+                    },
+                    "sortering": 19,
+                    "tittel": "Kommunal- og distriktsminister",
+                    "verv": "Statsråd",
+                    "verdi": 20000
+                }
+            ]
+        }
+    }
+}
