@@ -13,8 +13,11 @@ class Politiker:
         elif self._status == False:
             self._status == True
 
-    def blir_valgt(self, politiker):
-        politiker.bytt_status()
+    def hent_status(self):
+        return self._status
+
+    # def blir_valgt(self, politiker):  (Tror ikke denne metoden er nødevendig like vel)
+    #     politiker.bytt_status()       (Vi kan bare bruke "bytt_status()")
 
     def hent_etternavn(self):
         return self._etternavn
@@ -33,3 +36,4 @@ class Politiker:
 
     def oppdater_poeng(self):
         pass
+
