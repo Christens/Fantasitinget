@@ -11,9 +11,6 @@ class Parti:
             if etternavn == etternavn:
                 pass
             # return poltiker 
-            
-    def hent_samlet_verdi(self):
-        return self._samlet_verdi
 
     def hent_samlet_poeng(self):
         return self._samlet_poeng
@@ -21,13 +18,16 @@ class Parti:
     def hent_stemmer(self):
         return self._stemmer
 
-    def oppdater_stemmer(self):
-        pass
-    # self._stemmer - oppdater_samlet_verdi 
-
-    def oppdatert_samlet_verdi(self):
+    def oppdater_samlet_verdi(self):
         for politiker in self._parti:
             self._samlet_verdi += politiker.hent_verdi()
+
+    def hent_samlet_verdi(self):
+        self.oppdater_samlet_verdi()
+        return self._samlet_verdi
+
+    def oppdater_stemmer(self):
+        self._stemmer -= self.hent_samlet_verdi()
 
     def oppdater_parti(self):
         pass
