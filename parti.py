@@ -5,7 +5,7 @@ class Parti:
         self._samlet_poeng = samlet_poeng
         self._stemmer = stemmer
     
-    def hent_politiker(self, etternavn):
+    def hent_politiker_i_parti(self, etternavn):
         # ta inn etternavn og returnere politkeren
         for politiker in self._parti:
             if politiker.hent_etternavn() == etternavn:
