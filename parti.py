@@ -26,8 +26,8 @@ class Parti:
     # self._stemmer - oppdater_samlet_verdi 
 
     def oppdatert_samlet_verdi(self):
-        for politker in self._parti:
-            pass
+        for politiker in self._parti:
+            self._samlet_verdi += politiker.hent_verdi()
 
     def oppdater_parti(self):
         pass
