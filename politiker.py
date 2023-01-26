@@ -1,10 +1,10 @@
 class Politiker:
-    def __init__(self, etternavn, fornavn, verdi, parti, poeng):
+    def __init__(self, etternavn, fornavn, verdi, parti):
         self._etternavn = etternavn
         self._fornavn = fornavn
         self._verdi = verdi
         self._parti = parti
-        self._poeng = poeng
+        #self._poeng = poeng
         self._status = False
 
     def bytt_status(self):
