@@ -15,11 +15,11 @@ fornavn = []
 
 for politiker in storting:
     if politiker["fornavn"] not in fornavn:
-        liste_med_politikere.append(Politiker(politiker["etternavn"],politiker["fornavn"],politiker["verdi"],politiker["parti"]["navn"]))
+        liste_med_politikere.append(Politiker(politiker["etternavn"],politiker["fornavn"],politiker["verdi"],politiker["parti"]["navn"],0))
         fornavn.append(politiker["fornavn"])
 
 for politiker in regjering:
     if politiker["fornavn"] not in fornavn:
-        liste_med_politikere.append(Politiker(politiker["etternavn"],politiker["fornavn"],politiker["verdi"],politiker["parti"]["navn"]))
+        liste_med_politikere.append(Politiker(politiker["etternavn"],politiker["fornavn"],politiker["verdi"],politiker["parti"]["navn"],0))
         fornavn.append(politiker["fornavn"])
 
