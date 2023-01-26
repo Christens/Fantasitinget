@@ -8,9 +8,8 @@ class Parti:
     def hent_politiker(self, etternavn):
         # ta inn etternavn og returnere politkeren
         for politiker in self._parti:
-            if etternavn == etternavn:
-                pass
-            # return poltiker 
+            if politiker.hent_etternavn() == etternavn:
+                return self._parti.index(politiker)
 
     def hent_samlet_poeng(self):
         return self._samlet_poeng
@@ -29,8 +28,11 @@ class Parti:
     def oppdater_stemmer(self):
         self._stemmer -= self.hent_samlet_verdi()
 
-    def oppdater_parti(self):
-        pass
+    def oppdater_parti(self, liste_med_politikerne):
+        for politiker in liste_med_politikerne:
+            if politiker.hent_status() == True:
+                self._parti.append(politiker)
 
-    def fjern_politiker(self):
-        pass
+    def fjern_politiker(self, etternavn):
+        n = self.hent_politiker(etternavn)
+        self._parti[n].bytt_status()
